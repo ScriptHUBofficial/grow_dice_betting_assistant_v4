@@ -1,0 +1,27 @@
+[
+    {
+        "key": "BGAA-1000-3911-TTVG",
+        "exp": "2023-06-01 23:59:59",
+        "name": "rynx#9298"
+    },
+    {
+        "key": "LMAO-LMAO-LMAO-LMAO",
+        "exp": "2024-06-02 13:22:00",
+        "name": "lmao#9298"
+    },
+    {
+        "key": "PEXP-PEXP-TEST-TEST",
+        "exp": "2024-06-01 23:59:59",
+        "name": "EXPIRED#9298"
+    },
+  	{
+        "key": "PEXP-PEXP-TEST-TEHT",
+        "exp": "2023-06-03 23:59:59",
+        "name": "ttvgrowdice#8848"
+    },
+  	{
+        "key": "ABCD-EFGH-IJKL-MNOP",
+        "exp": "2024-06-03 23:59:59",
+        "name": "lovena#3511"
+    }
+]
